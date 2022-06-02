@@ -21,3 +21,8 @@ May also need to do
 To run in prod :
 
 `yarn build`
+
+
+More infos :
+
+Created with : Symfony 6.1 and PHP8.1
