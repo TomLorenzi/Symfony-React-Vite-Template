@@ -22,7 +22,7 @@ To run in prod :
 
 `yarn build`
 
-⚠️ Please change APP_SECRET inv `.env`
+⚠️ Please change APP_SECRET in `.env`
 
 More infos :
 
